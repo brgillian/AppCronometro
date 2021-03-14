@@ -11,7 +11,7 @@ Aplicativo para cronometrar o tempo em dispositivos Android.
 * Kotlin
 * XML
 
-# Print do Simulador do Android Studio
+## Print do Simulador do Android Studio
 
 ![](images/cronometro.PNG)
 
